@@ -1,0 +1,52 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif;
+    background-color: aquamarine;
+  }
+  
+  header {
+    background-color: bisque;
+    color: crimson;
+    text-align: center;
+    padding: 30px 0;
+  }
+  
+  header h1 {
+    margin: 0;
+    font-size: 2em;
+  }
+  
+  header p {
+    margin: 0;
+    font-size: 1.2em;
+  }
+  
+  section {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+  }
+  
+  section h2 {
+    background-color: bisque;
+    font-size: 1.5em;
+    margin-bottom: 10px;
+  }
+  
+  .project {
+    background-color: bisque;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    padding: 20px;
+    margin-bottom: 20px;
+  }
+  
+  .project h3 {
+    font-size: 1.2em;
+    margin-top: 0;
+  }
+  
+  .project p {
+    margin-bottom: 0;
+  }
